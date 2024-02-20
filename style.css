@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Libre+Baskerville&family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  font-family: "Titillium Web", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+
+.button {
+  font-size: 25px;
+  margin: 0 3px;
+  width: 50px;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+.row {
+  margin: 8px 0;
+}
+
+.row input {
+  font-size: 19px;
+  margin: 0;
+  padding: 10px 0;
+  border: 2px solid black;
+  border-radius: 15px;
+  width: 228px;
+}
+
+.yellow {
+  background-color: #f5a442;
+  color: white;
+  font-size: 25px;
+}
+
+.dark-grey {
+  background-color: #3a3a3a;
+  color: white;
+}
+
+.grey {
+  color: black;
+  background-color: #bdb8b3;
+}
